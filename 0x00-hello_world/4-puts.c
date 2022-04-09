@@ -1,3 +1,4 @@
+#!/bin/bashi
 #include <stdio.h>
 
 /**
