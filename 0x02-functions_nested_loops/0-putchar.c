@@ -19,5 +19,5 @@ _putchar('a');
 _putchar('r');
 _putchar('\n');
 
-rZZeturn (0);
+return (0);
 }
